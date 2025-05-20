@@ -73,21 +73,26 @@ Portal Berita adalah aplikasi web yang dibangun menggunakan Next.js dan menginte
 ## Cara Instalasi
 
 1. **Clone repository:**
+   
    ![image](https://github.com/user-attachments/assets/2aec4922-2e0f-4080-9ece-ddc08242c921)
 
-2. **Install dependencies:**
+3. **Install dependencies:**
+   
    ![image](https://github.com/user-attachments/assets/e2521276-93ea-4825-870b-1918f03d3d05)
 
-3. **Konfigurasi environment variables:**
+5. **Konfigurasi environment variables:**
 
    * Buat file `.env.local`
    * Tambahkan konfigurasi GitHub OAuth:
+     
      ![image](https://github.com/user-attachments/assets/f9c0caee-1c1b-4f62-bea1-c5d806042547)
 
-4. **Jalankan aplikasi:**
+6. **Jalankan aplikasi:**
+   
    ![image](https://github.com/user-attachments/assets/083b39d5-6036-4675-a6ce-339d8a7526dc)
 
-5. **Buka browser dan akses aplikasi:**
+8. **Buka browser dan akses aplikasi:**
+   
    ![image](https://github.com/user-attachments/assets/1479d996-6096-45a0-9c16-67140a8afcc3)
 
 ---
