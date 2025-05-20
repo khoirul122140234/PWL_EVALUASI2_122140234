@@ -37,36 +37,31 @@ Teknologi yang Digunakan
 Cara Instalasi
 1.	Clone repository:
  
-![image](https://github.com/user-attachments/assets/c2331aee-9daa-41cd-9210-1d56b7969d26)
-
+![image](https://github.com/user-attachments/assets/2aec4922-2e0f-4080-9ece-ddc08242c921)
 
 
 
 2.	Install dependencies:
 
-![image](https://github.com/user-attachments/assets/2c4ce2aa-8cfb-49c3-82d0-5b2a0636df19)
+![image](https://github.com/user-attachments/assets/e2521276-93ea-4825-870b-1918f03d3d05)
 
 
+3.	Konfigurasi environment variables:
+- Buat file
+- Tambahkan konfigurasi GitHub OAuth:
 
-3.	Konfigurasi environment variables:  	Buat file
- 	Tambahkan konfigurasi GitHub OAuth:
-
-
-![image](https://github.com/user-attachments/assets/18188a8f-4393-4240-adc5-8237b2a869c0)
-
-
-
+![image](https://github.com/user-attachments/assets/f9c0caee-1c1b-4f62-bea1-c5d806042547)
 
 
 4.	Jalankan aplikasi:
 
-![image](https://github.com/user-attachments/assets/f823b91c-30c4-4417-a788-71117e309335)
+![image](https://github.com/user-attachments/assets/083b39d5-6036-4675-a6ce-339d8a7526dc)
 
 
 
 5.	Buka browser dan akses:
 
-![image](https://github.com/user-attachments/assets/039d0def-1393-46b9-9baa-2f6838f1ee83)
+![image](https://github.com/user-attachments/assets/1479d996-6096-45a0-9c16-67140a8afcc3)
 
 
 Struktur Proyek
