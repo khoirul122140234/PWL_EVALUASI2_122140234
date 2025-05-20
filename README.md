@@ -1,3 +1,5 @@
+# Nama : Khoirul Rijal Wicaksono
+# NIM : 122140234
 
 # Portal Berita - Aplikasi Web Berita Terkini
 
